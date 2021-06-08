@@ -1,0 +1,3 @@
+ am hari 
+ welcome to the first github practice
+hello wor;d
